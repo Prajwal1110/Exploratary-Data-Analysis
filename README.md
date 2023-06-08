@@ -1,2 +1,2 @@
 # Exploratary-Data-Analysis
-  Here i will be updating status of Data Analsis Project
+  Here i will be updating status of Data Analysis Project
